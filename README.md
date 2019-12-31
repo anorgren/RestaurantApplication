@@ -7,7 +7,7 @@ A simple API/Application that allows users to find recipes that fit within provi
 This project was created for my Database Management Systems class and as such, the front end view is very much a work in progress. The main focus was to create a basic API that utilizes a local, user created mySQL database and exposes that information in a meaningful manner to the end-user.
 
 ### Technology Stack
-- Jsp 2.3
+- JSP 2.3
 - Bootstrap 4
 - Apache Tomcat 9
 - Database: local mySQL instance
